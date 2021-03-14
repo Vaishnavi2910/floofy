@@ -1,0 +1,132 @@
+body, html {
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Ranchers', cursive;
+    font-family: 'Ravi Prakash', cursive;
+    font-family: 'RocknRoll One', sans-serif;
+    height: 100%;
+    margin: 0;
+    color: rgb(85, 56, 24);
+  }
+  
+  .floof1, .floof2, .floof3, .floof4, .floof5 {
+    position: relative;
+    opacity: 0.85;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+
+  .fst{
+
+      color:rgb(44, 28, 14);
+      background-color:#fdeda3;
+      text-align:center;
+      padding: 25px 50px;
+      text-align: justify;
+  }
+
+
+  .floof1 {
+    background-image: url("C:/Users/prust/OneDrive/Desktop/tech/floofy/imgs/f1.jpg");
+    min-height: 100%;
+  }
+  
+  .floof2 {
+    background-image: url("C:/Users/prust/OneDrive/Desktop/tech/floofy/imgs/f2.jpg");
+    min-height: 100%;
+  }
+  
+  .floof3 {
+    background-image: url("C:/Users/prust/OneDrive/Desktop/tech/floofy/imgs/f3.jpg");
+    min-height: 100%;
+  }
+
+  .floof4 {
+    background-image: url("C:/Users/prust/OneDrive/Desktop/tech/floofy/imgs/f4.jpg");
+    min-height: 100%;
+  }
+
+  .floof5 {
+    background-image: url("C:/Users/prust/OneDrive/Desktop/tech/floofy/imgs/f5.jpg");
+    min-height: 100%;
+  }
+
+  
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: rgb(24, 10, 26);
+  }
+
+  .caption2 {
+
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: rgb(24, 10, 26);
+  }
+
+  
+  .caption span.border {
+    background-color: rgb(31, 23, 12);
+    color: rgb(255, 237, 154);
+    padding: 2%;
+    font-size: 40px;
+    letter-spacing: 10px;
+  }
+
+  .caption2 span.border {
+    background-color: rgb(31, 23, 12);
+    color: rgb(255, 237, 154);
+    padding: 2%;
+    font-size: 30px;
+    letter-spacing: 6px;
+  }
+
+  
+  h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: rgb(63, 37, 2);
+  }
+  /*global for the anchor tag*/
+  a:link {
+    color: rgb(255, 252, 203);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(244, 255, 227);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  /* Turn off parallax scrolling for tablets and phones */
+  @media only screen and (max-device-width: 1024px) {
+    .floof1, .floof2, .floof3, .floof4, .floof5, .carfloofhome {
+      background-attachment: scroll;
+    }
+
+  }

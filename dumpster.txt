@@ -1,0 +1,42 @@
+<div class="fst">
+        <h3 style="text-align:center;">So you decided to willingly enter the nation of the floof?</h3>
+        <p style="text-align:center;"><br><br>Well, we can't fault you for that nya.....after all, the power of the floof is too <i>incredible</i> nya!
+            <br><br> However, heed our warning, you may enter, <i>but you cannot exit! Muah ha ha ha ha!</i>
+            <br><br> ANYWAYS! Before you enter, you have to follow some rules nya.<br>
+            These rules are the foundation of our sovereign, and you must not freak them, for crossing us
+             has outcomes you won't want to discover, nya!
+        </p>
+      </div>
+      
+      <div class="floof2">
+        <div class="caption2">
+            <div class="row">
+                <div class="col-sm-4">
+                    <span class="border" style="background-color:transparent;font-size:25px;color: #ffffff;">
+                        The rules
+                    </span>
+                </div>
+                <div class="col-sm-8">
+                    <div class= "rules">
+                        <ul>
+                            <li>
+                                You must pay proper attention to us. Feeding us, petting us and taking us for walks 
+                                should be second nature to you nya. If you are confused about something,
+                                 then read the servant training manual we will be magnanimously providing to you nya.
+                            </li>
+                            <li>
+                                Hoomans outside our sovereign call us a plebian name called "pets". You better 
+                                call us by our rightful name called "floof". There must not be any discrimation
+                                 on the basis of the amount of fur we may or may not have, or the chonkiness of our bodies, you furless, flesh-coloured 
+                                 foolish bipedals! Hmph! 
+                            </li>
+                            <li>
+                                Each and every citizen of our nation is precious, and you have no rights to claim otherwise nya.
+                            </li>
+
+                            This was just a short overview of our rules. To read the full list, you better visit this page nya.
+                        </ul>
+                    </div>
+                </div>
+              </div>
+
